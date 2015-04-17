@@ -1,6 +1,6 @@
 /**
  * Constants Test 
- * @author root
+ * @author MassimilianoV70
  * @since 1.0
  */
 public interface ActivitiConstants
